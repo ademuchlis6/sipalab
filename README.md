@@ -1,36 +1,12 @@
-ci_crud
-================
+SISTEM PENGELOLAAN ADMINISTRASI PELAYANAN PENGUJIAN LABORATORIUM (SIPALAP)
 
-Contoh CodeIgniter CRUD menggunakan library Ion Auth dan Bootstrap
+SIPALAB was created to make it easier for laboratories to manage chemical checks and determine the price of checking.
 
-- [Codeigniter 3.0.2](http://www.codeigniter.com)
-- [Ion Auth v2.6](https://github.com/benedmunds/CodeIgniter-Ion-Auth)
-- [Bootstrap CSS v3.3.1](http://getbootstrap.com)
+there is already a laboratory document print module, and export reports, multiple logins, and dynamic settings
 
-## Install
-
-- unduh dan ekstrak ke localhost
-- buat database
-- atur konfigurasi database pada file application/config/database.php
-- buka aplikasi di browser
-- login menggunakan akun defaul ini:
-  - username: admin@admin.com
-  - password: password
-
----
-
-CodeIgniter CRUD with Ion Auth Library and Bootstrap Template
-
-- [Codeigniter 3.0.2](http://www.codeigniter.com)
-- [Ion Auth v2.6](https://github.com/benedmunds/CodeIgniter-Ion-Auth)
-- [Bootstrap CSS v3.3.1](http://getbootstrap.com)
-
-## Install
-
-- download and extract to your localhost
-- create any database
-- set database configuration in application/config/database.php
-- open in browser
-- use this default account to login
-  - username: admin@admin.com
-  - password: password
+![1](https://user-images.githubusercontent.com/82435592/144205926-2a1b4dc4-e9c5-4192-91bb-d39e3994dc7b.PNG)
+![2](https://user-images.githubusercontent.com/82435592/144205935-17aca392-064e-49ef-a528-465699c9e6ff.PNG)
+![3](https://user-images.githubusercontent.com/82435592/144205939-6c62f895-9d59-406d-9cd0-60704dce6468.PNG)
+![4](https://user-images.githubusercontent.com/82435592/144205941-9b59e0dd-5d89-4de2-9c04-b4a5869864f7.PNG)
+![5](https://user-images.githubusercontent.com/82435592/144205947-b48523dd-efb9-4fe4-a72e-db5d16f421a6.PNG)
+![6](https://user-images.githubusercontent.com/82435592/144205950-7563432f-a7bf-48da-a16e-441c40c53ac1.PNG)
